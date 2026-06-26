@@ -13,3 +13,7 @@ flow dynamics and key pathological information of liver lesions. The proposed mo
 
 # Requirements:
 ● Python 3.8
+
+# weight shared:
+The model weight is shared through a cloud storage file: MedPrioNet.rip
+Link: https://pan.baidu.com/s/13FNtykkoE88Kr6EDAvi-Sg?pwd=5tcy Extraction code: 5tcy
